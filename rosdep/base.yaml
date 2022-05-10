@@ -554,6 +554,8 @@ cmake:
     slackpkg:
       packages: [cmake]
   ubuntu: [cmake]
+cmatrix:
+  ubuntu: [cmatrix]
 coinor-libcbc-dev:
   debian: [coinor-libcbc-dev]
   fedora: [coin-or-Cbc-devel]
